@@ -28,3 +28,11 @@ Our platform provides a complete digital solution where schools can manage:
 - Reports
 
 in one secure system.
+## Target Users
+
+The system will be used by:
+
+1. Schools
+2. School administrators
+3. Teachers and employees
+4. Platform owners
