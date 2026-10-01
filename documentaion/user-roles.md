@@ -12,3 +12,16 @@ Responsibilities:
 - Manage users
 - View analytics
 - Manage security settings
+## 2. School Admin
+
+The school administrator manages one school.
+
+Responsibilities:
+
+- Manage students
+- Manage employees
+- Create classes
+- Manage attendance
+- Manage fees
+- Manage exams
+- Generate reports
