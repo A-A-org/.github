@@ -25,3 +25,14 @@ Responsibilities:
 - Manage fees
 - Manage exams
 - Generate reports
+## 3. Employee
+
+Employees perform daily school activities.
+
+Responsibilities:
+
+- View assigned classes
+- Take attendance
+- Enter marks
+- Manage assignments
+- View student information
