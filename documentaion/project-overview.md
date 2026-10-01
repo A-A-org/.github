@@ -16,3 +16,15 @@ This creates problems such as:
 - Time-consuming reports
 - Poor communication
 - Lack of centralized management
+- ## Solution
+
+Our platform provides a complete digital solution where schools can manage:
+
+- Students
+- Employees
+- Attendance
+- Fees
+- Exams
+- Reports
+
+in one secure system.
